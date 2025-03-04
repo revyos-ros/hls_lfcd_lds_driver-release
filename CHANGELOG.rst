@@ -2,6 +2,11 @@
 Changelog for package hls_lfcd_lds_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2025-02-25)
+------------------
+* ROS 2 Humble Hawksbill supported
+* Contributors: Will Son
+
 2.0.4 (2021-07-15)
 ------------------
 * fix linker error
@@ -26,7 +31,7 @@ Changelog for package hls_lfcd_lds_driver
 * Supported ROS 2 Dashing Diademata
 * Added parameter for initilization and modified qos
 * Reduced scope to boost-system dependency
-* Fixed build warnings in ROS2 Dashing
+* Fixed build warnings in ROS 2 Dashing
 * Contributors: Emerson Knapp, Darby Lim, Pyo
 
 1.1.0 (2019-01-23)
