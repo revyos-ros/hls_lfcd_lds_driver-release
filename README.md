@@ -1,3 +1,26 @@
+## hls_lfcd_lds_driver (jazzy) - 2.1.1-1
+
+The packages in the `hls_lfcd_lds_driver` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy hls_lfcd_lds_driver --override-release-repository-push-url git@github.com:revyos-ros/hls_lfcd_lds_driver-release.git` on `Wed, 18 Jun 2025 06:25:52 -0000`
+
+The `hls_lfcd_lds_driver` package was released.
+
+Version of package(s) in repository `hls_lfcd_lds_driver`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver.git
+- release repository: https://github.com/revyos-ros/hls_lfcd_lds_driver-release.git
+- rosdistro version: `2.1.1-1`
+- old version: `2.1.0-1`
+- new version: `2.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## hls_lfcd_lds_driver (humble) - 2.1.1-1
 
 The packages in the `hls_lfcd_lds_driver` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble hls_lfcd_lds_driver --override-release-repository-push-url git@github.com:revyos-ros/hls_lfcd_lds_driver-release.git` on `Mon, 16 Jun 2025 04:43:53 -0000`
