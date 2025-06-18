@@ -1,9 +1,0 @@
-Format: Bloom subset of https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: hls_lfcd_lds_driver
-Upstream-Contact: https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver/issues
-Source: https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver
-
-Files: See file headers in repository for details
-Copyright: See package copyright in source code for details
-License: BSD
- See repository for full license text
